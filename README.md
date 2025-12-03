@@ -11,23 +11,16 @@
 🎯 Objectives
 
 ● Analyze trends in the Indian mobile market in 2025.
-
 ● Study key features and their impact on user ratings.
-
 ● Explore price–preference relationships across segments.
-
 ● Identify top-performing smartphones by specs, ratings, and value.
-
 ● Provide insights and recommendations for consumers and businesses.
 
 📊 Summary of Findings
 
 ● The market is highly competitive, especially in the mid-range segment.
-
 ● Pricing is spec-driven, influenced by RAM, battery, camera, and display features.
-
 ● User ratings play a major role in consumer choices.
-
 ● Brands differentiate through pricing, performance, and feature strategies.
 
 🛠️ Tools Used
