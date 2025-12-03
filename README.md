@@ -2,11 +2,11 @@
 
 📘 Project Summary
 
-● This project analyzes mobile phones available in the Indian market in 2025 using Exploratory Data Analysis (EDA). 
-● The dataset includes specifications such as price, spec score, processor, RAM, storage, battery, camera, display size, and user ratings.
-● The analysis explores feature distributions, relationships between specifications, and key patterns influencing pricing and performance.
-● Visualizations (univariate, bivariate, and multivariate) help identify trends, correlations, and market behavior.
-● The goal is to understand how technical attributes impact consumer value, brand positioning, and market segmentation.
+● This project analyzes mobile phones available in the Indian market in 2025 using Exploratory Data Analysis (EDA).                                                                         
+● The dataset includes specifications such as price, spec score, processor, RAM, storage, battery, camera, display size, and user ratings.                                                               
+● The analysis explores feature distributions, relationships between specifications, and key patterns influencing pricing and performance.                                                                   
+● Visualizations (univariate, bivariate, and multivariate) help identify trends, correlations, and market behavior.                                                                           
+● The goal is to understand how technical attributes impact consumer value, brand positioning, and market segmentation.                                                                               
 
 🎯 Objectives
 
