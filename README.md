@@ -25,4 +25,4 @@
 
 🛠️ Tools Used
 
-Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter Notebook
